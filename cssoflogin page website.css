@@ -1,0 +1,45 @@
+body{
+      margin: 0;padding: 0;
+    background-image: url(2.jpg);
+    background-size: cover;
+    font-family: arial, tahoma;
+    background-repeat: round;
+    background-position: center;
+
+
+}
+.h1{
+height: 5%;
+}
+
+.login{
+    margin: 80px 400px 0px 350px;
+    padding: 20px 150px 20px 150px;
+    border-radius: 10px 10px 10px 10px;
+color: blanchedalmond;
+background-color:black;
+text-align: center;
+border-radius: 20px;
+border-style: solid;
+
+}
+.menu{
+    text-align: left;padding:5px 0;
+    color: blanchedalmond;
+position: absolute;
+    top: 20%;
+right: 0%; 
+   transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 35px;
+  
+}
+.input_box{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 35px;
+
+}
